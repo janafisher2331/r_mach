@@ -1,17 +1,17 @@
 # Conda environment with environment.yml
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/janafisher2331/py_mach/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/janafisher2331/r_mach/HEAD)
 
 A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
-https://mybinder.org/v2/gh/janafisher2331/py_mach/HEAD
+https://mybinder.org/v2/gh/janafisher2331/r_mach/HEAD
 
 ## Author Credit
 
-I would like to credit the author, Jason Brownlee, for his tutorial on "Your First Machine Learning Project in Python Step-By-Step" from which this project was adapted.  The tutorial can be found at the following URL:
-https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
+I would like to credit the author, Jason Brownlee, for his tutorial on "Your First Machine Learning Project in R Step-By-Step" from which this project was adapted.  The tutorial can be found at the following URL:
+https://machinelearningmastery.com/machine-learning-in-r-step-by-step/
 
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
